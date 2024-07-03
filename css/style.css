@@ -421,6 +421,9 @@ i {
     }
 }
 
+.content-wrapper #team, #reviews, #footer, #copyright{
+    background-color: black;
+}
 
 /*** Team ***/
 .team-item {
