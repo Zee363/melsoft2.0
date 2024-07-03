@@ -421,7 +421,7 @@ i {
     }
 }
 
-.content-wrapper #team, #reviews, #footer, #copyright{
+#team, #reviews, #footer, #copyright{
     background-color: black;
 }
 
